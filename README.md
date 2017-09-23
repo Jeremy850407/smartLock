@@ -2,7 +2,7 @@
 IOT Final Project
 
 Slide:  
-https://speakerdeck.com/jeremy850407/smartlock
+>https://speakerdeck.com/jeremy850407/smartlock
 
 Website:  
 >with Webduino:  
