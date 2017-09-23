@@ -1,14 +1,12 @@
 # smartLock
 IOT Final Project
 
-Slide: <br />
+Slide:  
 https://speakerdeck.com/jeremy850407/smartlock
 
-Website: <br />
-<p>
-with Webduino:<br />
-https://jeremy850407.github.io/smartLock
-
-without Webduino(demo only):<br />
-https://jeremy850407.github.io/smartLock/index1.html
-</p>
+Website:  
+>with Webduino:  
+>https://jeremy850407.github.io/smartLock
+>
+>without Webduino(demo only):  
+>https://jeremy850407.github.io/smartLock/index1.html
